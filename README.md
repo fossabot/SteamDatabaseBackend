@@ -1,4 +1,6 @@
 # Steam Database Backend
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIanE-Official%2FSteamDatabaseBackend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FIanE-Official%2FSteamDatabaseBackend?ref=badge_shield)
+
 
 The application that keeps [SteamDB](https://steamdb.info/) up to date with the latest changes directly from Steam,
 additionally it runs an IRC bot and announces various Steam stuff in #steamdb and #steamdb-announce on [Freenode](https://freenode.net/).
@@ -30,3 +32,6 @@ There are some modules that are particularly useful to have:
 
 ## License
 Use of SteamDB Updater is governed by a BSD-style license that can be found in the LICENSE file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FIanE-Official%2FSteamDatabaseBackend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FIanE-Official%2FSteamDatabaseBackend?ref=badge_large)
